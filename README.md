@@ -1,13 +1,11 @@
-# Mening birinchi loyiham
-Salom! Bu mening GitHub'dagi birinchi loyiham.
-## Men haqimda
-- Ismim: Shohruh
-- Men dasturlashni o'rganyapman.
-## Maqsadlarim
-- GitHub bilan ishlashni o'rganish
-- Dasturlashni o'rganish
-- O'z saytimni yaratish
-## E'tiboringiz uchun rahmat!
-
-
-
+# Parol yaratuvchi bot
+Bu Telegram bot siz uchun kuchli parol yaratib beradi.
+## Qanday ishlaydi?
+Botga istalgan xabar yozsangiz, u 12 belgili parol yuboradi.
+## Funksiyalari
+- Harf, raqam va belgilardan parol tuzadi
+- Har safar yangi tasodifiy parol beradi
+## Afzalliklari
+- Foydalanish juda oson va tez
+- Parol o'ylab topishga vaqt ketmaydi
+- 
