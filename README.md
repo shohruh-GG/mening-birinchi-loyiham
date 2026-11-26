@@ -1,1 +1,5 @@
-# mening-birinchi-loyiham
+# mening-birinchi-faylim
+## mualif
+**shohruh**
+
+
